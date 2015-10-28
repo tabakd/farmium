@@ -1,0 +1,13 @@
+.Plant {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: white;
+  margin: 15px;
+  padding: 25px;
+  border: 5px solid #ECEFF1;
+  border-radius: 5px;
+  * {
+    margin: 5px;
+  }
+}

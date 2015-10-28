@@ -1,0 +1,15 @@
+.Orb {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 120px;
+  height: 120px;
+  border-radius: 120px;
+  font-size: 1.6em;
+  color: white;
+  -webkit-text-stroke: 1px #455A64;
+  font-weight: 900;
+  background: white;
+  border: 5px solid #ECEFF1;
+}
